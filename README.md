@@ -26,7 +26,7 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,wordpres" />
 </p>
 
 ### 🛠 Web Essentials
