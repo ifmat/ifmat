@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hi, I'm Matin Afzali</h2>
 
-<p align="center" style="font-siz:20px">
+<p align="center" style="font-size:20px">
   <b>Backend Developer</b> · PHP | MySQL | Laravel (Learning)  
 </p>
 
