@@ -1,11 +1,7 @@
 <h2 align="center">👋 Hi, I'm Matin </h2>
 
 <p align="center" style="font-size:20px">
-  <b>Backend Developer</b> · PHP | Laravel | Symfony
-</p>
-<hr>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifmat&show_icons=true&theme=radical&hide_border=true" alt="Matin's GitHub stats" />
+    <b>Backend Developer</b> · PHP | Laravel | Symfony
 </p>
 
 
@@ -25,27 +21,33 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 - Scalable Server-Side Logic
 
 ---
+## 🧠 Soft Skills
+- **Problem Solving:** Analyzing complex challenges to find efficient logic.
+- **Teamwork:** Strong collaborator in professional environment.
+- **Creative Thinking:** Bringing innovative ideas to the development process.
+- **Responsibility:** Fully committed to deadlines and project ownership.
 
+---
 ## 🚀 Tech Stack
 
 ### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,wordpress" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,wordpress"/>
 </p>
 
 ### 🛠 Web Essentials
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,html,css"/>
 </p>
 
 ### 🎨 Front-End Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery"/>
 </p>
 
 ### ⚙️ Other Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,phpstorm" />
+    <img src="https://skillicons.dev/icons?i=git,github,phpstorm"/>
 </p>
 
 ---
