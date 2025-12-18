@@ -1,12 +1,13 @@
 <h2 align="center">👋 Hi, I'm Matin </h2>
 
 <p align="center" style="font-size:20px">
-  <b>Backend Developer</b> · PHP | MySQL | Laravel
+  <b>Backend Developer</b> · PHP | Laravel | Symfony
 </p>
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ifmat&show_icons=true&theme=radical&hide_border=true" alt="Matin's GitHub stats" />
 </p>
----
+
 
 ---
 ## 👨‍💻 About Me
