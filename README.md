@@ -30,9 +30,13 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 ---
 ## 🚀 Tech Stack
 
-### 🔧 Backend & Database
+### 🔧 Backend
 <p>
-    <img src="https://skillicons.dev/icons?i=php,mysql,laravel,wordpress"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,Symfony"/>
+</p>
+### 🔧  Database
+<p>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
 </p>
 
 ### 🛠 Web Essentials
@@ -47,11 +51,23 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ### ⚙️ Other Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,phpstorm"/>
+    <img src="https://skillicons.dev/icons?i=git,github,laragon,docker,phpstorm"/>
 </p>
 
 ---
+## 💼 Experience
+<details>
+    <summary><b>Click to view my professional background</b></summary>
+    <br>
+    <ul>
+        <li><b>Software Developer</b> @ Ministry of Education (1 Year)</li>
+        <li><b>Project Developer</b> @ Mashhad Schools Academic System</li>
+        <li><b>Website Administrator</b> (Backend & CMS Management)</li>
+        <li><b>Social Media Infrastructure & Admin</b></li>
+    </ul>
+</details>
 
+---
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/ifmat
