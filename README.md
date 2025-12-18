@@ -1,11 +1,14 @@
-<h2 align="center">👋 Hi, I'm Matin Afzali</h2>
+<h2 align="center">👋 Hi, I'm Matin </h2>
 
 <p align="center" style="font-size:20px">
-  <b>Backend Developer</b> · PHP | MySQL | Laravel (Learning)
+  <b>Backend Developer</b> · PHP | MySQL | Laravel 
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifmat&show_icons=true&theme=radical&hide_border=true" alt="Matin's GitHub stats" />
+</p>
+---
 ## 👨‍💻 About Me
 I'm a dedicated Backend Developer who enjoys building clean, optimized, and scalable server-side applications.
 I love learning new technologies, improving my skills, and turning ideas into real, functional solutions.
