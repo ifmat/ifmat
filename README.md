@@ -1,21 +1,24 @@
-<h2 align="center">👋 Hi, I'm Matin</h2>
+<h2 align="center">👋 Hi, I'm Matin Afzali</h2>
 
-<p align="center" style="font-size:19px">
-  <b>Backend Developer</b> | PHP & Laravel Specialist
+<p align="center" style="font-size:20px">
+  <b>Backend Developer</b> · PHP | MySQL | Laravel (Learning)
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a dedicated **Backend Developer** focused on building clean, optimized, and scalable server-side applications. I specialize in turning complex ideas into functional, high-performance solutions using modern web technologies.
+I'm a dedicated Backend Developer who enjoys building clean, optimized, and scalable server-side applications.
+I love learning new technologies, improving my skills, and turning ideas into real, functional solutions.
+Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ---
 
-## 🧠 Soft Skills
-- **Problem Solving:** Analyzing complex challenges to find efficient logic.
-- **Teamwork:** Strong collaborator in professional environment.
-- **Creative Thinking:** Bringing innovative ideas to the development process.
-- **Responsibility:** Fully committed to deadlines and project ownership.
+## 🧠 Specializations
+- Backend Development
+- PHP & MySQL
+- API Development
+- Modern Web Technologies
+- Scalable Server-Side Logic
 
 ---
 
@@ -23,7 +26,7 @@ I am a dedicated **Backend Developer** focused on building clean, optimized, and
 
 ### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,wordpress" />
 </p>
 
 ### 🛠 Web Essentials
@@ -38,30 +41,17 @@ I am a dedicated **Backend Developer** focused on building clean, optimized, and
 
 ### ⚙️ Other Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,phpstorm,wordpress" />
+  <img src="https://skillicons.dev/icons?i=git,github,phpstorm" />
 </p>
-
----
-
-## 💼 Experience
-<details>
-  <summary><b>Click to view my professional background</b></summary>
-  <br>
-  <ul>
-    <li><b>Software Developer</b> @ Ministry of Education (1 Year)</li>
-    <li><b>Project Developer</b> @ Mashhad Schools Academic System</li>
-    <li><b>Website Administrator</b> (Backend & CMS Management)</li>
-    <li><b>Social Media Infrastructure & Admin</b></li>
-  </ul>
-</details>
 
 ---
 
 ## 🌐 Connect With Me
 
-- **Email:** Matin.Afzali.Dev@gmail.com
-- **LinkedIn:** [linkedin.com/in/matin-afzali](https://www.linkedin.com/in/matin-afzali)
-- **Telegram:** [@MatinAfzaliDev](https://t.me/MatinAfzaliDev)
+- GitHub: https://github.com/ifmat
+- LinkedIn: https://www.linkedin.com/in/matin-afzali
+- Email: **Matin.Afzali.Dev@gmail.com**
+- Telegram: **@MatinAfzaliDev**
 
 ---
 
