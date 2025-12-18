@@ -54,6 +54,10 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
     <img src="https://skillicons.dev/icons?i=git,github,docker,phpstorm,laragon,xampp"/>
 </p>
 
+### 🖥 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
 ---
 ## 💼 Experience
 <details>
