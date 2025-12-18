@@ -32,9 +32,9 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ### 🔧 Backend
 <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,Symfony"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony"/>
 </p>
-### 🔧  Database
+🔧  Database
 <p>
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
 </p>
