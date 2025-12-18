@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Matin </h2>
 
 <p align="center" style="font-size:20px">
-  <b>Backend Developer</b> · PHP | MySQL | Laravel 
+  <b>Backend Developer</b> · PHP | MySQL | Laravel
 </p>
 
 ---
