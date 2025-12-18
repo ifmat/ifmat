@@ -51,7 +51,7 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ### ⚙️ Other Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,xampp,docker,phpstorm,laragon"/>
+    <img src="https://skillicons.dev/icons?i=git,github,xampp,docker,phpstorm"/>
 </p>
 
 ---
