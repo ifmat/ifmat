@@ -58,6 +58,7 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 <p>
   <img src="https://skillicons.dev/icons?i=linux,windows" />
 </p>
+
 ---
 ### 💼 Experience
 <details>
