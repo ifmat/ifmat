@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi, I'm Matin </h2>
 
 <p align="center" style="font-size:20px">
-    <b>Backend Developer</b> · PHP | Laravel | Symfony
+    <b>Backend Developer</b> · PHP | Laravel 
 </p>
 
 
@@ -32,7 +32,7 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ### 🔧 Backend
 <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress,symfony"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress"/>
 </p>
 🔧  Database
 <p>
@@ -51,7 +51,7 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 
 ### ⚙️ Other Tools
 <p>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,phpstorm,laragon,xampp"/>
+    <img src="https://skillicons.dev/icons?i=git,github,phpstorm,laragon,xampp"/>
 </p>
 
 ### 🖥 Operating Systems
@@ -64,7 +64,6 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
     <summary><b>Click to view my professional background</b></summary>
     <br>
     <ul>
-        <li><b>Software Developer</b> @ Ministry of Education (1 Year)</li>
         <li><b>Project Developer</b> @ Mashhad Schools Academic System</li>
         <li><b>Website Administrator</b> (Backend & CMS Management)</li>
         <li><b>Social Media Infrastructure & Admin</b></li>
