@@ -60,6 +60,29 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 </p>
 
 ---
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ifmat&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=ifmat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifmat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ifmat&theme=tokyonight" alt="Productive time" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifmat&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ifmat&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</div>
+
+---
+
 ### 💼 Experience
 <details>
     <summary><b>Click to view my professional background</b></summary>
