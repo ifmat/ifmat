@@ -1,62 +1,41 @@
-<h2 align="center">👋 Hi, I'm Matin </h2>
+<!-- Profile -->
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=03A9F4&center=true&vCenter=true&random=false&width=500&lines=👋+Hi,+I'm+Alireza+Yousefzadeh;🚀+Android+Developer;📱+Kotlin+%26+Jetpack+Compose" alt="Typing SVG" />
+  </a>
+</h2>
 
-<p align="center" style="font-size:20px">
-    <b>Backend Developer</b> · PHP | Laravel 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=33alireza&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/33alireza?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/33alireza?style=social" alt="GitHub stars" />
 </p>
 
-
----
-## 👨‍💻 About Me
-I'm a dedicated Backend Developer who enjoys building clean, optimized, and scalable server-side applications.
-I love learning new technologies, improving my skills, and turning ideas into real, functional solutions.
-Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
-
 ---
 
-## 🧠 Specializations
-- Backend Development
-- PHP & MySQL
-- API Development
-- Modern Web Technologies
-- Scalable Server-Side Logic
+## 💡 About Me
+
+I'm a **Junior Software Engineer** passionate about building intuitive and user-friendly mobile applications.  
+I love exploring new technologies and continuously improving my skills in **Mobile Development**. 🖥️💻
+
+🧠 **I'm currently learning :**
+
+- 📱 **Android Development**  
+- 🧩 **Kotlin Ecosystem**  
+- 🖼️ **Jetpack Compose**
 
 ---
-## 🧠 Soft Skills
-- **Problem Solving:** Analyzing complex challenges to find efficient logic.
-- **Teamwork:** Strong collaborator in professional environment.
-- **Creative Thinking:** Bringing innovative ideas to the development process.
-- **Responsibility:** Fully committed to deadlines and project ownership.
 
----
 ## 🚀 Tech Stack
 
-### 🔧 Backend
+### 🤖 Languages & Frameworks
 <p>
-    <img src="https://skillicons.dev/icons?i=php,laravel,wordpress"/>
-</p>
-🔧  Database
-<p>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,ktor,js,ts,swift" />
 </p>
 
-### 🛠 Web Essentials
+### 🛠 Tools & Platforms
 <p>
-    <img src="https://skillicons.dev/icons?i=js,html,css"/>
-</p>
-
-### 🎨 Front-End Tools
-<p>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,jquery"/>
-</p>
-
-### ⚙️ Other Tools
-<p>
-    <img src="https://skillicons.dev/icons?i=git,github,phpstorm,laragon,xampp"/>
-</p>
-
-### 🖥 Operating Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,androidstudio,firebase,gradle,idea,webstorm,vscode,notion,git,github,gitlab,appwrite,figma,md" />
 </p>
 
 ---
@@ -64,44 +43,73 @@ Currently expanding my knowledge in **Laravel** and modern backend tools. 🚀
 ## 📈 GitHub Insights
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ifmat&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=ifmat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=33alireza&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=33alireza&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifmat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ifmat&theme=tokyonight" alt="Productive time" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=33alireza&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=33alireza&theme=tokyonight" alt="Productive time" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifmat&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=33alireza&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ifmat&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=33alireza&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </div>
 
 ---
 
-### 💼 Experience
-<details>
-    <summary><b>Click to view my professional background</b></summary>
-    <br>
-    <ul>
-        <li><b>Project Developer</b> @ Mashhad Schools Academic System</li>
-        <li><b>Website Administrator</b> (Backend & CMS Management)</li>
-        <li><b>Social Media Infrastructure & Admin</b></li>
-    </ul>
-</details>
+### 🐍 Snake Contribution Grid
 
----
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/ifmat
-- LinkedIn: https://www.linkedin.com/in/matin-afzali
-- Email: **Matin.Afzali.Dev@gmail.com**
-- Telegram: **@MatinAfzaliDev**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/33alireza/33alireza/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/33alireza/33alireza/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/33alireza/33alireza/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-<p align="center">✨ Always learning, always building ✨</p>
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**KotlinFinity**](https://github.com/33Alireza/KotlinFinity) | A collection of Kotlin basics, examples, and explanations to help beginners learn Kotlin from scratch. |
+| [**AndroidBeyond**](https://github.com/33Alireza/AndroidBeyond) | Everything I learn in Android Dev using Kotlin and Jetpack Compose. |
+| [**ComposeNova**](https://github.com/33Alireza/ComposeNova) | Pure Jetpack Compose playground. |
+| [**MobileDevRoadmap**](https://github.com/33Alireza/MobileDevRoadmap) | A complete roadmap to become a mobile developer in 2025 (Android & iOS). |
+
+---
+
+## 📫 Get in Touch
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/33alireza">
+    <img src="https://img.icons8.com/color/40/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.icons8.com/color/40/gmail.png" alt="Email" />
+  </a>
+  <a href="https://t.me/yourtelegram">
+    <img src="https://img.icons8.com/color/40/telegram-app.png" alt="Telegram" />
+  </a>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to learning and collaborating.  
+If you have suggestions, feedback, or just want to chat about Android development — feel free to reach out!
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
+</p>
+
+<p align="center">⭐️ Thanks for visiting! ⭐️</p>
